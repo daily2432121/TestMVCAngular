@@ -1,0 +1,16 @@
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\bin\Debug\TestMVCAngular.Core.dll.config
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\bin\Debug\TestMVCAngular.Core.dll
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\bin\Debug\TestMVCAngular.Core.pdb
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\bin\Debug\Abp.dll
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\bin\Debug\Castle.Core.dll
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\bin\Debug\Castle.Windsor.dll
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\bin\Debug\System.Collections.Immutable.dll
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\bin\Debug\Abp.xml
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\bin\Debug\Castle.Core.xml
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\bin\Debug\Castle.Windsor.xml
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\bin\Debug\System.Collections.Immutable.xml
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\obj\Debug\TestMVCAngular.Core.csprojResolveAssemblyReference.cache
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\obj\Debug\TestMVCAngular.Core.dll
+C:\Users\cheng\Documents\TestMVCAngular\TestMVCAngular.Core\obj\Debug\TestMVCAngular.Core.pdb
